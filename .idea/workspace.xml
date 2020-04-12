@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf8b3bdc-9dc4-449e-a719-b3647dbc6204" name="Default Changelist" comment="" />
+    <list default="true" id="bf8b3bdc-9dc4-449e-a719-b3647dbc6204" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/work/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/work/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/work-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -43,6 +53,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aRFoQfsvNtQRvNNV4pTExydyIX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -61,7 +73,7 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.WorkApplication">
     <configuration name="WorkApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.work.WorkApplication" />
       <module name="work" />
@@ -71,6 +83,13 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.project.work.WorkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="work" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.work.WorkApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,6 +156,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.WorkApplication" />
+      <item itemvalue="Spring Boot.WorkApplication" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -170,7 +193,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586690674044</updated>
-      <workItem from="1586690676179" duration="1225000" />
+      <workItem from="1586690676179" duration="2674000" />
     </task>
     <servers />
   </component>
@@ -182,30 +205,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="319" y="116" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1586691333098" />
-    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586691374136">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586694578381">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586691374136" />
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586694578381" />
     <state x="457" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586691351048">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1586691351048" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1586691893941">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1586694868597">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586691893941" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1586691893939">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586694868597" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1586694868594">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586691893939" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1586691893938">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586694868594" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1586694868593">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586691893938" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1586691893940">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586694868593" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1586694868595">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586691893940" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586694868595" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1586691893946">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -254,13 +277,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="958" height="245" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1586691377441" />
-    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1586691195956">
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1586694868618">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1586691195956" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586691192908">
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1586694868618" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586694867628">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586691192908" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586694867628" />
   </component>
 </project>
